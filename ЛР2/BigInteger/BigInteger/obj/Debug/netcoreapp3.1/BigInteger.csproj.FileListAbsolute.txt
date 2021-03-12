@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\obj\Debug\netcoreapp3.1\BigInteger.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\obj\Debug\netcoreapp3.1\BigInteger.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\obj\Debug\netcoreapp3.1\BigInteger.AssemblyInfo.cs
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\obj\Debug\netcoreapp3.1\BigInteger.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\bin\Debug\netcoreapp3.1\BigInteger.exe
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\bin\Debug\netcoreapp3.1\BigInteger.deps.json
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\bin\Debug\netcoreapp3.1\BigInteger.runtimeconfig.json
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\bin\Debug\netcoreapp3.1\BigInteger.runtimeconfig.dev.json
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\bin\Debug\netcoreapp3.1\BigInteger.dll
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\bin\Debug\netcoreapp3.1\BigInteger.pdb
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\obj\Debug\netcoreapp3.1\BigInteger.dll
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\obj\Debug\netcoreapp3.1\BigInteger.pdb
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР2\BigInteger\BigInteger\obj\Debug\netcoreapp3.1\BigInteger.genruntimeconfig.cache
