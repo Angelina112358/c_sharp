@@ -1,0 +1,26 @@
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\bin\Debug\netcoreapp3.1\Виселица1.exe
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\bin\Debug\netcoreapp3.1\Виселица1.deps.json
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\bin\Debug\netcoreapp3.1\Виселица1.runtimeconfig.json
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\bin\Debug\netcoreapp3.1\Виселица1.runtimeconfig.dev.json
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\bin\Debug\netcoreapp3.1\Виселица1.dll
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\bin\Debug\netcoreapp3.1\Виселица1.pdb
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.AssemblyInfo.cs
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.dll
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.pdb
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\Виселица1\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.genruntimeconfig.cache
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\bin\Debug\netcoreapp3.1\Виселица1.exe
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\bin\Debug\netcoreapp3.1\Виселица1.deps.json
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\bin\Debug\netcoreapp3.1\Виселица1.runtimeconfig.json
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\bin\Debug\netcoreapp3.1\Виселица1.runtimeconfig.dev.json
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\bin\Debug\netcoreapp3.1\Виселица1.dll
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\bin\Debug\netcoreapp3.1\Виселица1.pdb
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.AssemblyInfo.cs
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.dll
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.pdb
+C:\Users\PC\Desktop\учеба\ОАиП\2 семестр\С#\ЛР1 Виселица\Виселица1\obj\Debug\netcoreapp3.1\Виселица1.genruntimeconfig.cache
