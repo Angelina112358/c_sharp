@@ -1,0 +1,32 @@
+C:\Users\PC\source\repos\Int64number\Int64number\bin\Debug\net5.0\Int64number.exe
+C:\Users\PC\source\repos\Int64number\Int64number\bin\Debug\net5.0\Int64number.deps.json
+C:\Users\PC\source\repos\Int64number\Int64number\bin\Debug\net5.0\Int64number.runtimeconfig.json
+C:\Users\PC\source\repos\Int64number\Int64number\bin\Debug\net5.0\Int64number.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Int64number\Int64number\bin\Debug\net5.0\Int64number.dll
+C:\Users\PC\source\repos\Int64number\Int64number\bin\Debug\net5.0\ref\Int64number.dll
+C:\Users\PC\source\repos\Int64number\Int64number\bin\Debug\net5.0\Int64number.pdb
+C:\Users\PC\source\repos\Int64number\Int64number\obj\Debug\net5.0\Int64number.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Int64number\Int64number\obj\Debug\net5.0\Int64number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Int64number\Int64number\obj\Debug\net5.0\Int64number.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Int64number\Int64number\obj\Debug\net5.0\Int64number.AssemblyInfo.cs
+C:\Users\PC\source\repos\Int64number\Int64number\obj\Debug\net5.0\Int64number.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Int64number\Int64number\obj\Debug\net5.0\Int64number.dll
+C:\Users\PC\source\repos\Int64number\Int64number\obj\Debug\net5.0\ref\Int64number.dll
+C:\Users\PC\source\repos\Int64number\Int64number\obj\Debug\net5.0\Int64number.pdb
+C:\Users\PC\source\repos\Int64number\Int64number\obj\Debug\net5.0\Int64number.genruntimeconfig.cache
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\bin\Debug\net5.0\Int64number.exe
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\bin\Debug\net5.0\Int64number.deps.json
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\bin\Debug\net5.0\Int64number.runtimeconfig.json
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\bin\Debug\net5.0\Int64number.runtimeconfig.dev.json
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\bin\Debug\net5.0\Int64number.dll
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\bin\Debug\net5.0\ref\Int64number.dll
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\bin\Debug\net5.0\Int64number.pdb
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\obj\Debug\net5.0\Int64number.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\obj\Debug\net5.0\Int64number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\obj\Debug\net5.0\Int64number.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\obj\Debug\net5.0\Int64number.AssemblyInfo.cs
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\obj\Debug\net5.0\Int64number.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\obj\Debug\net5.0\Int64number.dll
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\obj\Debug\net5.0\ref\Int64number.dll
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\obj\Debug\net5.0\Int64number.pdb
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР2\Int64number\Int64number\obj\Debug\net5.0\Int64number.genruntimeconfig.cache
