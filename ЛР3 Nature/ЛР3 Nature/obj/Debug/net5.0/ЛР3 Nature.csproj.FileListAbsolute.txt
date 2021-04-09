@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\obj\Debug\net5.0\ЛР3 Nature.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\obj\Debug\net5.0\ЛР3 Nature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\obj\Debug\net5.0\ЛР3 Nature.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\obj\Debug\net5.0\ЛР3 Nature.AssemblyInfo.cs
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\obj\Debug\net5.0\ЛР3 Nature.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\bin\Debug\net5.0\ЛР3 Nature.exe
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\bin\Debug\net5.0\ЛР3 Nature.deps.json
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\bin\Debug\net5.0\ЛР3 Nature.runtimeconfig.json
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\bin\Debug\net5.0\ЛР3 Nature.runtimeconfig.dev.json
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\bin\Debug\net5.0\ЛР3 Nature.dll
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\bin\Debug\net5.0\ref\ЛР3 Nature.dll
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\bin\Debug\net5.0\ЛР3 Nature.pdb
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\obj\Debug\net5.0\ЛР3 Nature.dll
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\obj\Debug\net5.0\ref\ЛР3 Nature.dll
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\obj\Debug\net5.0\ЛР3 Nature.pdb
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\ЛР3 Nature\ЛР3 Nature\obj\Debug\net5.0\ЛР3 Nature.genruntimeconfig.cache
