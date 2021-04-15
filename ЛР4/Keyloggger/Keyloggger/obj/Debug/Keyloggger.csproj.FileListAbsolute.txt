@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\Keyloggger\Keyloggger\obj\Debug\Keyloggger.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\Keyloggger\Keyloggger\obj\Debug\Keyloggger.Properties.Resources.resources
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\Keyloggger\Keyloggger\obj\Debug\Keyloggger.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\Keyloggger\Keyloggger\obj\Debug\Keyloggger.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\Keyloggger\Keyloggger\bin\Debug\Keyloggger.exe.config
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\Keyloggger\Keyloggger\bin\Debug\Keyloggger.exe
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\Keyloggger\Keyloggger\bin\Debug\Keyloggger.pdb
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\Keyloggger\Keyloggger\obj\Debug\Keyloggger.exe
+C:\Users\PC\Desktop\учеба\Программирование\2 семестр\С#\Keyloggger\Keyloggger\obj\Debug\Keyloggger.pdb
