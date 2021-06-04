@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\bin\Debug\net5.0\ЛР8.exe
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\bin\Debug\net5.0\ЛР8.deps.json
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\bin\Debug\net5.0\ЛР8.runtimeconfig.json
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\bin\Debug\net5.0\ЛР8.runtimeconfig.dev.json
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\bin\Debug\net5.0\ЛР8.dll
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\bin\Debug\net5.0\ref\ЛР8.dll
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\bin\Debug\net5.0\ЛР8.pdb
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\obj\Debug\net5.0\ЛР8.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\obj\Debug\net5.0\ЛР8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\obj\Debug\net5.0\ЛР8.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\obj\Debug\net5.0\ЛР8.AssemblyInfo.cs
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\obj\Debug\net5.0\ЛР8.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\obj\Debug\net5.0\ЛР8.dll
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\obj\Debug\net5.0\ref\ЛР8.dll
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\obj\Debug\net5.0\ЛР8.pdb
+C:\Users\PC\Desktop\study\Programming\1 course\2 sem\С#\ЛР8\ЛР8\obj\Debug\net5.0\ЛР8.genruntimeconfig.cache
